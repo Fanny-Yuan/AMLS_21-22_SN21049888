@@ -3,7 +3,7 @@ Final project of AMLS about brain tumor classification. Four models included: KN
 All codes are written with python using jupyter notebook. I put the two machine learning methods in one notebook and the two deep learning methods in another one. Train and test session are all written in the notebooks.\
 If you want to train and test machine learning models, run KNN_SVN.ipynb\
 If you want to train or test deep learning models, run MLP_CNN.ipynb\
-More detailed instructions are written in jupyter notebooks.\
+More detailed instructions are written in jupyter notebooks.
 
 ## Environments
 To run the code, you need:\
