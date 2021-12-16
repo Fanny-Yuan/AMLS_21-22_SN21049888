@@ -27,7 +27,7 @@ For deep learning, you can train your own model. But results might be different 
 ## Results
 Accuracy in the original test set is shown in the table:
 
-||binary task|multiclass task|
+| |binary task|multiclass task|
 |KNN|0.9283|0.875|
 |SVM|0.9617|0.8783|
 |MLP|1.0|0.7717|
