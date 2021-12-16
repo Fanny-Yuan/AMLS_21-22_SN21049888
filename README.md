@@ -22,5 +22,14 @@ ATTENTION: all codes are written based on Windows. As most works are done using 
 ## Train and test
 First please follow the step in jupyter notebook to do necessary data processing. \
 For machine learning, you should train the model at first, then you can get the same results of mine.\
-For deep learning, you can train your own model. But the result might be different of each training. You can also choose to test my trained models directly, which are put in the realease: https://github.com/Fanny-Yuan/Brain-tumor-classification/releases/tag/models
+For deep learning, you can train your own model. But results might be different during each training. You can also choose to test my trained models directly, which are put in the realease: https://github.com/Fanny-Yuan/Brain-tumor-classification/releases/tag/models
+
+## Results
+Accuracy in the original test set is shown in the table:
+
+||binary task|multiclass task|
+|KNN|0.9283|0.875|
+|SVM|0.9617|0.8783|
+|MLP|1.0|0.7717|
+|CNN|1.0|0.96|
 
