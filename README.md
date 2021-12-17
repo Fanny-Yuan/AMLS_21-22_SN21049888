@@ -1,4 +1,6 @@
 # Brain-tumor-classification
+  AMLS_21-22 _SN21049888
+  
   Final project of AMLS about brain tumor classification. Four models included: KNN, SVM, MLP and CNN (ResNet50). Codes for both binary task and multiclass task. \
   All codes are written with python using jupyter notebook. I put the two machine learning methods in one notebook and the two deep learning methods in another one. Train and test session are all written in the notebooks.
   
